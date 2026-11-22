@@ -4,13 +4,13 @@
   <img src="https://abolfazlzarei.sbs/static/abolfazlzarei.jpg" width="150" style="border-radius:50%;"/>
 </div>
 
-من یک **توسعه‌دهنده و مهندس نرم‌افزار جوان و پرانرژی** هستم که با اشتیاق واقعی در دنیای تکنولوژی نفس می‌کشم 🚀👨‍💻. در **۱۹ سالگی**، چندین ساله که مسیرم را در برنامه‌نویسی، شبکه، داده و سیستم‌ها شروع کرده‌ام؛ مسیری که هر روز مثل یک چالش جدید و هیجان‌انگیز من را به جلو می‌برد 💻⚙️📡.
+من یک **توسعه‌دهنده و مهندس نرم‌افزار جوان و پرانرژی** هستم که با اشتیاق واقعی در دنیای تکنولوژی نفس می‌کشم 🚀👨‍💻. در **۲۰ سالگی**، چندین ساله که مسیرم را در برنامه‌نویسی، شبکه، داده و سیستم‌ها شروع کرده‌ام؛ مسیری که هر روز مثل یک چالش جدید و هیجان‌انگیز من را به جلو می‌برد 💻⚙️📡.
 
 ---
 
 ## 🛠 تجربه و مهارت‌ها
 
-حدود **۴ سال پیش** وارد دنیای برنامه‌نویسی شدم و از همان روزی که اولین خط کد خود را نوشتم، فهمیدم که این دنیا جایی است که باید باشم. مسیرم از **کنجکاوی شروع شد** و کم‌کم به **علاقه‌ای جدی** تبدیل شد؛ طوری که بیشتر روزهایم صرف **یادگیری، ساختن و تجربه کردن ایده‌ها و پروژه‌های مختلف** می‌شود.  
+حدود **۵ سال پیش** وارد دنیای برنامه‌نویسی شدم و از همان روزی که اولین خط کد خود را نوشتم، فهمیدم که این دنیا جایی است که باید باشم. مسیرم از **کنجکاوی شروع شد** و کم‌کم به **علاقه‌ای جدی** تبدیل شد؛ طوری که بیشتر روزهایم صرف **یادگیری، ساختن و تجربه کردن ایده‌ها و پروژه‌های مختلف** می‌شود.  
 
 در کنار برنامه‌نویسی، تجربه خوبی در **تعمیرات نرم‌افزاری و تحلیل سیستم‌ها** داشتم که کمک کرد نگاه عمیق‌تری به ساختار نرم‌افزار و رفتار پشت‌صحنه اپلیکیشن‌ها پیدا کنم 🔧📲.
 
@@ -42,7 +42,7 @@
 
 ## 🌐 About Me (English Version)
 
-I’m **Abolfazl Zarei**, a young and passionate software developer who lives and breathes technology every single day 🚀👨‍💻. At **19 years old**, I’ve already spent several years exploring programming, networks, data, and modern systems — a journey that constantly pushes me forward with excitement and curiosity 💻⚙️📡.
+I’m **Abolfazl Zarei**, a young and passionate software developer who lives and breathes technology every single day 🚀👨‍💻. At **20 years old**, I’ve already spent several years exploring programming, networks, data, and modern systems — a journey that constantly pushes me forward with excitement and curiosity 💻⚙️📡.
 
 I started coding about **four years ago**, and from the moment I wrote my first line of code, I knew this is exactly where I belong. What began as simple curiosity soon turned into a serious passion — the kind that makes learning, experimenting, and building new things the best part of my day. Along the way, I also gained strong experience in **software troubleshooting and system analysis** 🔧📲.
 
